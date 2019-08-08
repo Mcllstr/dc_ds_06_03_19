@@ -2,7 +2,7 @@
 
 # Data science fellowship 06/03/19 
 
-"Hi this is joe"
+"Landing page for DS Fellowship Daily Content and Schedule"
 
 ### Data science calendar
 
